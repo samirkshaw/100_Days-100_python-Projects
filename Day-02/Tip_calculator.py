@@ -1,0 +1,5 @@
+amount =float(input("What is the amount of the bill\n"))
+tip = int(input("what % of tip you wanna give\n"))
+people = int(input("How many people are there to split?\n"))
+bill = round((amount + (amount*(tip/100)))/people, 2)
+print(f"Your bill per head is  {bill}")
