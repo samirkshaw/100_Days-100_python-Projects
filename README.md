@@ -4,7 +4,7 @@
 > CSE undergrad building real Python projects every single day —
 > with the goal of applying it all to AI/ML down the road.
 
-![Progress](https://img.shields.io/badge/Days%20Completed-10%2F100-blue)
+![Progress](https://img.shields.io/badge/Days%20Completed-10%2F100-blue) 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
