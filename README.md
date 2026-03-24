@@ -34,16 +34,18 @@ Day-XX/
 
 ## Projects
 
-| Day | Project | Concepts Used |
-|-----|---------|---------------|
-| 01 | Band Name Generator | print, input, variables |
-| 02 | Tip Calculator | data types, math operators |
-| 03 | Treasure Island Game | if/elif/else, conditionals |
-| 04 | Rock Paper Scissors | lists, random module |
-| 05 | Password Generator | loops, range(), functions |
-| 06 | Reeborg Maze | functions, while loops |
-| 07 | Hangman Game | lists, functions, string ops |
-| 08 | Caesar Cipher | for loops, modulo, functions |
+| Day | Project                          | Concepts Used                            |
+|-----|----------------------------------|------------------------------------------|
+| 01  | Band Name Generator              | print, input, variables                  |
+| 02  | Tip Calculator                   | data types, math operators               |
+| 03  | Treasure Island Game             | if/elif/else, conditionals               |
+| 04  | Rock Paper Scissors              | lists, random module                     |
+| 05  | Password Generator               | loops, range(), functions                |
+| 06  | Reeborg Maze                     | functions, while loops                   |
+| 07  | Hangman Game                     | lists, functions, string ops             |
+| 08  | Caesar Cipher text decode/encode | for loops, modulo, functions             |
+| 09  | Auction Bidding                  | dictionary(key,value),loop, if/elif/else |
+| 10  | Calculator                       | functions, loops, if/elif/else           |
 
 ---
 
