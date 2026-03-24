@@ -1,0 +1,7 @@
+.idea/
+*.exe
+**/bin/
+__pycache__/
+*.pyc
+.env
+.venv
