@@ -1,0 +1,45 @@
+Welcome to the Number Guessing Game!
+
+Guess a number between 1 and 100.
+
+
+  ____                       _   _
+ / ___|_   _  ___  ___ ___  | |_| |__   ___
+| |  _| | | |/ _ \/ __/ __| | __| '_ \ / _ \
+| |_| | |_| |  __/\__ \__ \ | |_| | | |  __/
+ \____|\__,_|\___||___/___/  \__|_| |_|\___|
+ _ __  _   _ _ __ ___ | |__   ___ _ __
+| '_ \| | | | '_ ` _ \| '_ \ / _ \ '__|
+| | | | |_| | | | | | | |_) |  __/ |
+|_| |_|\__,_|_| |_| |_|_.__/ \___|_|
+
+Which level? Press 'H' for Hard, 'E' for Easy: H
+
+You have 5 attempts. Good luck!
+
+Guess the number: 50
+Too high!
+
+Attempts remaining: 4
+
+Guess the number: 30
+Too low!
+
+Attempts remaining: 3
+
+Guess the number: 40
+Too low!
+
+Attempts remaining: 2
+
+Guess the number: 45
+Too high!
+
+Attempts remaining: 1
+
+Guess the number: 43
+Too high!
+
+Attempts remaining: 0
+
+Out of attempts! The number was 41. Better luck next time!
