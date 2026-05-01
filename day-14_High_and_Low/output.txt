@@ -1,0 +1,43 @@
+
+ _   _ _       _               _
+| | | (_)     | |             | |
+| |_| |_  __ _| |__   ___ _ __| |     _____      _____ _ __
+|  _  | |/ _` | '_ \ / _ \ '__| |    / _ \ \ /\ / / _ \ '__|
+| | | | | (_| | | | |  __/ |  | |___| (_) \ V  V /  __/ |
+\_| |_/_|\__, |_| |_|\___|_|  \_____/\___/ \_/\_/ \___|_|
+          __/ |
+         |___/
+
+Welcome to the Higher or Lower game.
+Guess which personality has more followers.
+Get it right → game continues. Get it wrong → game over.
+
+Compare A: NASA, Space agency, from USA
+
+ _    __  ___
+| |  / / / __|
+| | / /  \__ \\
+| |/ /   |___/
+|__/
+
+Against B: Beyonce, Singer, from USA
+
+Who has more followers? Type A or B: b
+
+Correct! Current score: 1
+Compare A: Beyonce, Singer, from USA
+
+ _    __  ___
+| |  / / / __|
+| | / /  \__ \\
+| |/ /   |___/
+|__/
+
+Against B: BTS, K-pop band, from South Korea
+
+Who has more followers? Type A or B: b
+
+Wrong! Beyonce has 317M vs BTS has 72M
+Your final score: 1
+
+Would you like to play again? (y/n):
