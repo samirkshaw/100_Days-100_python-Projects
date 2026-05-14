@@ -1,0 +1,28 @@
+What would you like? (espresso/latte/cappuccino): espresso
+
+The cost is ₹60. Insert money.
+How many ₹100 notes: 1
+How many ₹50 notes: 0
+How many ₹20 notes: 0
+How many ₹10 notes: 0
+Here is your change of ₹40
+Enjoy your espresso! ☕
+
+What would you like? (espresso/latte/cappuccino): cappuccino
+
+The cost is ₹80. Insert money.
+How many ₹100 notes: 1
+How many ₹50 notes: 0
+How many ₹20 notes: 0
+How many ₹10 notes: 0
+Here is your change of ₹20
+Enjoy your cappuccino! ☕
+
+What would you like? (espresso/latte/cappuccino): report
+Water: 700ml
+Milk: 900ml
+Coffee: 58g
+Money: ₹140
+
+What would you like? (espresso/latte/cappuccino): off
+Shutting down. Goodbye!

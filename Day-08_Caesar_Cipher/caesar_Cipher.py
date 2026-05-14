@@ -32,4 +32,4 @@ while should_continue:
     restart = input("\nDo you want to go again? (yes/no): ").lower()
     if restart == "no":
         should_continue = False
-        print("Goodbye!")
+        print("Goodbye!"

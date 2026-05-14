@@ -60,7 +60,7 @@ guessed_letters = []                        #  tracks what's been tried
 display = ["_"] * len(chosen_word)
 
 print("Welcome to the Hangman game.")
-print("You have the choose the correct alphabets of the random word.\n Every wrong choice takes the hangman closer to be hanged.")
+print("You have to choose the correct alphabets of the random word.\n Every wrong choice takes the hangman closer to be hanged.")
 print(HANGMANPICS[0])
 print("Word: " + " ".join(display))
 

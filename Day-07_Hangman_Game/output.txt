@@ -1,0 +1,103 @@
+Welcome to the Hangman game.
+You have to choose the correct alphabets of the random word.
+ Every wrong choice takes the hangman closer to be hanged.
+
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+Word: _ _ _ _ _ _ _
+Guessed so far: []
+Guess a letter: r
+
+Good guess!
+Word: _ _ _ _ _ _ r
+Guessed so far: ['r']
+Guess a letter: c
+
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+Wrong! 5 lives remaining.
+Word: _ _ _ _ _ _ r
+Guessed so far: ['r', 'c']
+Guess a letter: a
+
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+Wrong! 4 lives remaining.
+Word: _ _ _ _ _ _ r
+Guessed so far: ['r', 'c', 'a']
+Guess a letter: b
+
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+Wrong! 3 lives remaining.
+Word: _ _ _ _ _ _ r
+Guessed so far: ['r', 'c', 'a', 'b']
+Guess a letter: e
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+Wrong! 2 lives remaining.
+Word: _ _ _ _ _ _ r
+Guessed so far: ['r', 'c', 'a', 'b', 'e']
+Guess a letter: l
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========
+Wrong! 1 lives remaining.
+Word: _ _ _ _ _ _ r
+Guessed so far: ['r', 'c', 'a', 'b', 'e', 'l']
+Guess a letter: n
+
+Good guess!
+Word: _ _ n _ _ _ r
+Guessed so far: ['r', 'c', 'a', 'b', 'e', 'l', 'n']
+Guess a letter: o
+
+Good guess!
+Word: _ o n _ _ o r
+Guessed so far: ['r', 'c', 'a', 'b', 'e', 'l', 'n', 'o']
+Guess a letter: k
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========
+Wrong! 0 lives remaining.
+Word: _ o n _ _ o r
+
+Game over! The word was: monitor
+
+Process finished with exit code 0
