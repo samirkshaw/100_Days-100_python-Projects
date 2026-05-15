@@ -59,7 +59,7 @@ git clone https://github.com/samirkshaw/100_Days-100_python-Projects.git
 cd Day-XX
 
 # 3. Run the file
-python main.py
+python spirography.py
 ```
 
 ---
